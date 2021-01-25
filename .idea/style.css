@@ -1,0 +1,35 @@
+body {
+    background: #f3f2f3;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+}
+nav{
+    height: 30px;
+}
+header{
+    background: #6d8675;
+    height: 45px;
+    margin: 4px auto;
+}
+.col{
+    background: #ffffff;
+    height: 300px;
+    margin: 50px ;
+    min-height: 100%;
+}
+.w-100{
+    background: #ffffff;
+    height: 4px;
+
+}
+.block{
+    background: #cdcaca;
+    height: 50px;
+    margin-top: 100px;
+}
+.img{
+    background: #aeabab;
+    height: 90px;
+    margin-top: -150px;
+}
